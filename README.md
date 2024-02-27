@@ -15,5 +15,5 @@ Read Appendix D
 7. G. Catelani, R. J. Schoelkopf, M. H. Devoret, and L. I. Glazman Relaxation and frequency shifts induced by quasiparticles in superconducting qubits
    PHYSICAL REVIEW B 84, 064517 (2011): https://rsl.yale.edu/sites/default/files/physrevb.84.pdf.relaxation_0.pdf
 8. Catelani https://scipost.org/SciPostPhys.6.1.013/pdf
-9. 
-
+9. Diffusion of QPs in superconducting Al films: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.1502
+    
